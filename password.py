@@ -3,7 +3,7 @@ import urllib
 import urllib2
 import cookielib
 import re
-import ssss
+import ss
 
 #获取一个保存cookie的对象
 cj = cookielib.LWPCookieJar()
