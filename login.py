@@ -3,7 +3,7 @@ import urllib
 import urllib2
 import cookielib
 import re
-
+import ss
 print '-------------xzp西南交大成绩查询系统-v1.0---------'
 userid = raw_input("请输入学号：")
 password = raw_input("请输入密码：")
